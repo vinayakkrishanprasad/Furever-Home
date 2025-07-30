@@ -4,10 +4,7 @@
 
 
 <!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url-1]
-[![LinkedIn][linkedin-shield]][linkedin-url-2]
-[![LinkedIn][linkedin-shield]][linkedin-url-3]
-[![LinkedIn][linkedin-shield]][linkedin-url-4]
+
 
 
 
