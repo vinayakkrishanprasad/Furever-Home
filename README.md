@@ -163,7 +163,7 @@ _For more examples, please refer to the demo video._
 
 Vinayak Prasad - [@vinayak-prasad][linkedin-url-3] - vkprasad@andrew.cmu.edu
 
-## Members
+## Other Members
 Kavi Sarna - [@kavi-sarna][linkedin-url-1]
 
 Abhinav Bhargava - [@abhinav-bhargava][linkedin-url-2] 
