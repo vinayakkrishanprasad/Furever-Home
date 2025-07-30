@@ -161,13 +161,7 @@ _For more examples, please refer to the demo video._
 <!-- CONTACT -->
 ## Contact
 
-Kavi Sarna - [@kavi-sarna][linkedin-url-1] - ksarna@andrew.cmu.edu
-
-Abhinav Bhargava - [@abhinav-bhargava][linkedin-url-2] - abharga3@andrew.cmu.edu
-
 Vinayak Prasad - [@vinayak-prasad][linkedin-url-3] - vkprasad@andrew.cmu.edu
-
-Alan Kagiri - [@alan-kagiri][linkedin-url-4] - akagiri@andrew.cmu.edu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
