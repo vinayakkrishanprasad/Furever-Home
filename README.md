@@ -163,6 +163,13 @@ _For more examples, please refer to the demo video._
 
 Vinayak Prasad - [@vinayak-prasad][linkedin-url-3] - vkprasad@andrew.cmu.edu
 
+## Members
+Kavi Sarna - [@kavi-sarna][linkedin-url-1]
+
+Abhinav Bhargava - [@abhinav-bhargava][linkedin-url-2] 
+
+Alan Kagiri - [@alan-kagiri][linkedin-url-4] 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
